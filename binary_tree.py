@@ -39,7 +39,6 @@ class Node:
         return node
 
     # 3. rotate
-    # balance変数(左右の子の高さの差)
 
     # def get_height(node):
     #     if node == None:
